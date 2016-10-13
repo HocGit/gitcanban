@@ -1,2 +1,3 @@
 How to rebase ?
 This line will conflicts with "branch2" name
+Rebase step by step
